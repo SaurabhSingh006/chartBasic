@@ -1,0 +1,17 @@
+{
+  "name": "chartsbasic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "char": "^1.0.2",
+    "chart.js": "^2.9.4",
+    "parcel-bundler": "^1.12.4"
+  }
+}
